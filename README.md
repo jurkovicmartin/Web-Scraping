@@ -1,9 +1,9 @@
 # Web-Scraping
 
-https://webscraper.io/test-sites
+Learning web scraping.
 
-https://www.scrapethissite.com/pages/
 
-https://quotes.toscrape.com/
+Found training sites to scrape:
 
-https://books.toscrape.com/
+- https://webscraper.io/test-sites
+- https://www.scrapethissite.com/pages/
