@@ -24,4 +24,6 @@ link: https://books.toscrape.com/
 Scraped info:
 - Title
 - Price
-- In stock
+- Rating
+- Availability
+- UPC
