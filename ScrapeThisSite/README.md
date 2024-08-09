@@ -16,3 +16,18 @@ Scraped info:
 - Capital
 - Population
 - Area
+
+# Hockey teams
+**hockey.py** script
+
+link: https://www.scrapethissite.com/pages/forms/
+
+Scraped info:
+- Team name
+- Year
+- Wins
+- Losses
+- Overtime losses
+- Goals for
+- Goals against
+- Gals difference
