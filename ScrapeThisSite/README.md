@@ -4,7 +4,7 @@ Training web scraping at https://www.scrapethissite.com/pages/ site.
 
 Scraped info is saved to a csv file.
 
-BeautifulSoup is used.
+Selenium and BeautifulSoup is used.
 
 # Countries
 **countries.py** script
@@ -31,3 +31,15 @@ Scraped info:
 - Goals for
 - Goals against
 - Gals difference
+
+# Oscar winning films
+**films.py** script
+
+link: https://www.scrapethissite.com/pages/ajax-javascript/
+
+Scraped info:
+- Year
+- Title
+- Number of nominations
+- Number of awards
+- Mark the best picture
