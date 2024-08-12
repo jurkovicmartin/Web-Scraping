@@ -6,7 +6,7 @@ Scraped info is saved to a csv file.
 
 Selenium and BeautifulSoup is used.
 
-# Countries
+## Countries
 **countries.py** script
 
 link: https://www.scrapethissite.com/pages/simple/
@@ -17,7 +17,7 @@ Scraped info:
 - Population
 - Area
 
-# Hockey teams
+## Hockey teams
 **hockey.py** script
 
 link: https://www.scrapethissite.com/pages/forms/
@@ -32,7 +32,7 @@ Scraped info:
 - Goals against
 - Gals difference
 
-# Oscar winning films
+## Oscar winning films
 **films.py** script
 
 link: https://www.scrapethissite.com/pages/ajax-javascript/
@@ -43,3 +43,14 @@ Scraped info:
 - Number of nominations
 - Number of awards
 - Mark the best picture
+
+## Turtles
+**turtles.py** script
+
+link: https://www.scrapethissite.com/pages/frames/
+
+Scraped info:
+- Family name
+- Alternative name
+- Year of discovery
+- Discoverer
