@@ -9,3 +9,5 @@ BeautifulSoup and Selenium were used as scraping tools.
 - https://www.scrapethissite.com/pages/ in ScrapeThisSite folder
 
 - https://quotes.toscrape.com/ and https://books.toscrape.com/ in ToScrape folder
+
+- Epicurious
